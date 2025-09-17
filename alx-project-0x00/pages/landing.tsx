@@ -18,6 +18,9 @@ const Landing: React.FC = () => {
       <Button title="Get in 6" styles="small rounded-full bg-blue-300"/>
       <Button title="Get in 4" styles="medium rounded-full bg-blue-400"/>
       <Button title="Get in 6" styles="large rounded-full bg-blue-500"/>
+      <Button title="Get in 6" styles="small rounded-lg bg-blue-300"/>
+      <Button title="Get in 4" styles="medium rounded-lg bg-blue-400"/>
+      <Button title="Get in 6" styles="large rounded-lg bg-blue-500"/>
     </div>
   )
 }
